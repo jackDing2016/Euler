@@ -1,0 +1,21 @@
+30,1,6,De formis radicum aequationum cuiusque ordinis coniectatio
+153,1,6,Demonstratio gemina theorematis Neutoniani, quo traditur relatio inter coefficientes cuiusvis aequationis algebraicae et summas potestatum radicum eiusdem
+157,1,6,De extractione radicum ex quantitatibus irrationalibus
+170,1,6,
+282,1,6,
+310,1,6,
+370,1,6,
+395,1,6,
+406,1,6,
+407,1,6,
+450,1,6,
+532,1,6,350-369
+540,1,6,370-383
+631,1,6,384-404
+632,1,6,405-424
+643,1,6,425-433
+644,1,6,436-446
+711,1,6,447-464
+728,1,6,465-485
+794,1,6,486-493
+808,1,6,494-503
