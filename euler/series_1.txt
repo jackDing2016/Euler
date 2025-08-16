@@ -1,0 +1,452 @@
+3,1,27,Methodus inveniendi traiectorias reciprocas algebraicas
+5,1,27,Problematis traiectoriarum reciprocarum solutio
+9,1,25,Methodus inveniendi traiectorias reciprocas algebraicas
+10,1,22,Nova methodus innumerabiles aequationes differentiales secundi gradus reducendi ad aequationes differentiales primi gradus
+11,1,22,Constructio aequationum quarundam differentialium, quae indeterminatarum separationem non admittunt
+19,1,14,De progressionibus transcendentibus seu quarum termini generales algebraice dari nequeunt
+20,1,14,De summatione innumerabilium progressionum
+23,1,27,De curvis rectificabilibus algebraicis atque traiectoriis reciprocis algebraicis
+25,1,14,Methodus generalis summandi progressiones
+26,1,2,Observationes de theoremate quodam Fermatiano aliisque ad numeros primos spectantibus
+27,1,25,Problematis isoperimetrici in latissimo sensu accepti solutio generalis
+28,1,20,Specimen de constructione aequationum differentialium sine indeterminatarum separatione
+29,1,2,De solutione problematum diophanteorum per numeros integros
+30,1,6,De formis radicum aequationum cuiusque ordinis coniectatio
+31,1,22,Constructio aequationis differentialis axn dx = dy + y2 dx
+36,1,2,Solutio problematis arithmetici de inveniendo numero, qui per datos numeros divisus relinquat data residua
+41,1,14,De summis serierum reciprocarum
+42,1,25,De linea celerrimi descensus in medio quocunque resistente
+43,1,14,De progressionibus harmonicis observationes
+44,1,22,De infinitis curvis eiusdem generis seu methodus inveniendi aequationes pro infinitis curvis eiusdem generis
+45,1,22,Additamentum ad dissertationem de infinitis curvis eiusdem generis
+46,1,14,Methodus universalis serierum convergentium summas quam proxime inveniendi
+47,1,14,Inventio summae cuiusque seriei ex dato termino generali
+48,1,22,Investigatio binarum curvarum, quarum arcus eidem abscissae respondentes summam algebraicam constituant
+51,1,22,De constructione aequationum ope motus tractorii aliisque ad methodum tangentium inversam pertinentibus
+52,1,20,Solutio problematum rectivicationem ellipsis requirentium
+53,1,7,Solutio problematis ad geometriam situs pertinentis
+54,1,2,Theorematum quorundam ad numeros primos spectantium demonstratio
+55,1,14,Methodus universalis series summandi ulterius promota
+56,1,25,Curvarum maximi minive proprietate gaudientium inventio nova et facilis
+59,1,17,Theoremata circa reductionem formularum integralium ad quadraturam circuli
+60,1,17,De inventione integralium, si post integrationem variabili quantitati determinatus valor tribuatur
+61,1,14,De summis serierum reciprocarum ex potestatibus numerorum naturalium ortarum dissertatio altera, in qua eaedem summationes ex fonte maxime diverso derivantur
+62,1,22,De integratione aequationum differentialium altiorum graduum
+63,1,14,Démonstration de la somme de cette suite 1 + 1/4 + 1/9 + 1/16 + ...
+65,1,24,Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes, sive solutio problematis isoperimetrici lattissimo sensu accepti
+70,1,22,De constructione aequationum
+71,1,14,De fractionibus continuis dissertatio
+72,1,14,Variae observationes circa series infinitas
+73,1,26,Solutio problematis geometrici circa lunulas a circulis formatas
+74,1,14,De variis modis circuli quadraturam numeris proxime exprimendi
+75,1,27,Solutio problematis in Novorum Actorum Eruditorum mense novembri A. 1743 propositi
+79,1,27,Problema geometricum propositum publice ab Anonymo Geometra
+83,1,27,Sur quelques proprietés des sections coniques, qui conviennent à une infinité d'autres lignes courbes
+84,1,25,Leonhardi Euleri animadversio ad libri praecedentis sec. 83 et seq. de curvis elasticis
+85,1,27,Solutio problematis catoptrici in his actis A. 1745 Mense Septembri P. I pag. 523 propositi
+95,1,22,De aequationibus differentialibus, quae certis tantum casibus integrationem admittunt
+98,1,2,Theorematum quorundam arithmeticorum demonstrationes
+99,1,25,Solutio problematis cuiusdam a Celeberrimo Daniele Bernoullio propositi
+100,1,2,De numeris amicabilibus
+101,1,8,Introductio in analysin infinitorum, volume 1
+102,1,9,Introductio in analysin infinitorum, volume 2
+106,1,27,Solutio problematis catoptrici in Novis Actis Eruditorum Lipsiensibus pro mense Novembri A. 1745 propositi
+122,1,14,De productis ex infinitis factoribus ortis
+123,1,14,De fractionibus continuis observationes
+125,1,14,Consideratio progressionis cuiusdam ad circuli quadraturam inveniendam idoneae
+128,1,14,Methodus facilis computandi angulorum sinus ac tangentes tam naturales quam artificiales
+129,1,27,Investigatio curvarum quae evolutae sui similes producunt
+130,1,14,De seriebus quibusdam considerationes
+133,1,27,De superficie conorum scalenorum aliorumque corporum conicorum
+134,1,2,Theoremata circa divisores numerorum
+135,1,26,Variae demostrationes geometriae
+147,1,26,Sur une contradiction apparente dans la doctrine des lignes courbes
+148,1,26,Démonstration sur le nombre des points, où deux lignes des ordres quelconques peuvent se couper
+152,1,2,De numeris amicabilibus
+153,1,6,Demonstratio gemina theorematis Neutoniani, quo traditur relatio inter coefficientes cuiusvis aequationis algebraicae et summas potestatum radicum eiusdem
+154,1,20,Animadversiones in rectificationem ellipsis
+157,1,6,De extractione radicum ex quantitatibus irrationalibus
+158,1,2,Observationes analyticae variae de combinationibus
+162,1,17,
+163,1,17,
+164,1,2,
+166,1,27
+167,1,2
+168,1,17
+169,1,27
+170,1,6
+173,1,27
+188,1,22
+189,1,14
+190,1,14
+191,1,2
+192,1,26
+201,1,7
+211,1,20
+212,1,10
+214,1,27
+215,1,27
+220,1,27
+224,1,27
+228,1,2
+230,1,26
+231,1,26
+236,1,22
+241,1,2
+242,1,2
+243,1,2
+244,1,2
+245,1,22
+246,1,14
+247,1,14
+250,1,25
+251,1,20
+252,1,20
+253,1,2
+254,1,17
+255,1,2
+256,1,2
+261,1,20
+262,1,2
+263,1,20
+264,1,20
+265,1,22
+269,1,22
+270,1,2
+271,1,2
+272,1,2
+273,1,20
+274,1,22
+275,1,15
+279,1,2
+280,1,15
+281,1,15
+282,1,6
+283,1,3
+284,1,22
+285,1,23
+295,1,20
+296,1,25
+297,1,25
+298,1,27
+300,1,27
+309,1,7
+310,1,6
+313,1,7
+319,1,23
+321,1,17
+322,1,23
+323,1,3
+324,1,26
+325,1,26
+326,1,15
+333,1,7
+334,1,7
+335,1,7
+338,1,7
+342,1,11
+345,1,20
+346,1,28
+347,1,20
+352,1,15
+366,1,12
+368,1,28
+369,1,3
+370,1,6
+385,1,13
+387,1,1
+388,1,1
+390,1,28
+391,1,17
+392,1,28
+393,1,15
+394,1,3
+395,1,6
+403,1,7
+405,1,3
+406,1,6
+407,1,6
+408,1,28
+412,1,7
+419,1,28
+420,1,25
+421,1,17
+422,1,28
+423,1,28
+427,1,3
+428,1,3
+429,1,23
+430,1,23
+431,1,23
+432,1,15
+433,1,28
+444,1,25
+445,1,3
+447,1,15
+448,1,20
+449,1,3
+450,1,6
+451,1,3
+452,1,3
+453,1,15
+454,1,3
+461,1,3
+462,1,17
+463,1,17
+464,1,17
+465,1,15
+466,1,3
+467,1,3
+473,1,7
+474,1,3
+475,1,18
+476,1,7
+477,1,15
+488,1,7
+489,1,15
+490,1,28
+491,1,28
+492,1,28
+498,1,3
+499,1,18
+500,1,18
+501,1,25
+505,1,26
+506,1,21
+507,1,15
+513,1,28
+514,1,26
+515,1,3
+521,1,18
+522,1,15
+523,1,3
+524,1,26
+530,1,7
+532,1,6
+539,1,18
+540,1,6
+541,1,3
+542,1,3
+543,1,26
+550,1,15
+551,1,15
+552,1,3
+553,1,15
+554,1,3
+555,1,15
+556,1,4
+557,1,4
+558,1,4
+559,1,4
+560,1,4
+561,1,15
+562,1,15
+563,1,28
+564,1,4
+565,1,15
+566,1,4
+572,1,18
+573,1,26
+574,1,28
+575,1,15
+581,1,21
+582,1,21
+583,1,15
+584,1,15
+586,1,4
+587,1,18
+588,1,18
+589,1,18
+590,1,21
+591,1,4
+592,1,15
+593,1,15
+594,1,18
+595,1,23
+596,1,4
+597,1,15
+598,1,4
+599,1,7
+600,1,7
+601,1,26
+602,1,28
+604,1,29
+605,1,21
+606,1,18
+609,1,29
+610,1,4
+611,1,29
+613,1,16A
+616,1,16A
+617,1,16A
+620,1,18
+621,1,18
+622,1,23
+623,1,29
+624,1,21
+628,1,7
+629,1,18
+630,1,18
+631,1,6
+632,1,6
+633,1,21
+635,1,18
+636,1,16A
+637,1,16A
+638,1,21
+639,1,21
+640,1,18
+642,1,16A
+643,1,6
+644,1,6
+645,1,21
+646,1,29
+647,1,29
+648,1,26
+650,1,23
+651,1,18
+652,1,16A
+653,1,18
+654,1,29
+655,1,16A
+656,1,19
+657,1,19
+661,1,16A
+662,1,19
+663,1,16A
+664,1,16A
+665,1,29
+666,1,29
+667,1,29
+668,1,19
+669,1,19
+670,1,19
+671,1,19
+672,1,19
+673,1,19
+674,1,19
+675,1,19
+676,1,21
+677,1,23
+678,1,23
+679,1,23
+680,1,23
+681,1,23
+683,1,4
+684,1,16A
+685,1,16A
+686,1,16A
+687,1,23
+688,1,19
+689,1,19
+690,1,19
+691,1,29
+692,1,29
+693,1,26
+694,1,19
+695,1,19
+696,1,4
+697,1,19
+698,1,29
+699,1,4
+700,1,23
+701,1,19
+702,1,4
+703,1,16A
+704,1,16A
+705,1,16B
+706,1,16B
+707,1,19
+708,1,4
+709,1,16B
+710,1,16B
+711,1,6
+712,1,29
+713,1,4
+714,1,21
+715,1,4
+716,1,4
+718,1,4
+719,1,4
+720,1,23
+721,1,19
+722,1,16B
+724,1,23
+725,1,4
+726,1,16B
+727,1,25
+728,1,6
+729,1,26
+730,1,26
+731,1,25
+732,1,4
+733,1,26
+734,1,23
+735,1,25
+736,1,16B
+737,1,23
+738,1,7
+739,1,4
+740,1,25
+741,1,23
+742,1,16B
+743,1,16B
+744,1,4
+745,1,16B
+746,1,16B
+747,1,16B
+748,1,5
+749,1,26
+750,1,16B
+751,1,23
+752,1,19
+753,1,5
+754,1,5
+755,1,5
+757,1,29
+758,1,5
+759,1,25
+760,1,25
+761,1,25
+763,1,5
+764,1,5
+767,1,29
+768,1,16B
+769,1,5
+771,1,29
+772,1,5
+773,1,5
+774,1,5
+775,1,5
+776,1,5
+777,1,5
+778,1,5
+779,1,23
+780,1,21
+781,1,21
+782,1,21
+783,1,21
+784,1,23
+785,1,23
+792,1,5
+793,1,5
+794,1,6
+795,1,7
+796,1,5
+797,1,5
+798,1,5
+799,1,5
+807,1,19
+808,1,6
+809,1,16B
+810,1,16B
+811,1,7
+812,1,7
+813,1,7
+814,1,29
+815,1,29
+816,1,19
+817,1,21
+818,1,21
+819,1,21
+856,1,23

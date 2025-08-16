@@ -1,22 +1,18 @@
-19,1,14,De progressionibus transcendentibus seu quarum termini generales algebraice dari nequeunt
-20,1,14,De summatione innumerabilium progressionum
-25,1,14,Methodus generalis summandi progressiones
-41,1,14,De summis serierum reciprocarum
-43,1,14,De progressionibus harmonicis observationes
-46,1,14,Methodus universalis serierum convergentium summas quam proxime inveniendi
-47,1,14,Inventio summae cuiusque seriei ex dato termino generali
-55,1,14,Methodus universalis series summandi ulterius promota
-61,1,14,De summis serierum reciprocarum ex potestatibus numerorum naturalium ortarum dissertatio altera, in qua eaedem summationes ex fonte maxime diverso derivantur
-63,1,14,Démonstration de la somme de cette suite 1 + 1/4 + 1/9 + 1/16 + ...
-71,1,14,De fractionibus continuis dissertatio
-72,1,14,Variae observationes circa series infinitas
-74,1,14,De variis modis circuli quadraturam numeris proxime exprimendi
-122,1,14,De productis ex infinitis factoribus ortis
-123,1,14,De fractionibus continuis observationes
-125,1,14,Consideratio progressionis cuiusdam ad circuli quadraturam inveniendam idoneae
-128,1,14,Methodus facilis computandi angulorum sinus ac tangentes tam naturales quam artificiales
-130,1,14,De seriebus quibusdam considerationes
-189,1,14
-190,1,14
-246,1,14
-247,1,14
+19,1,14,1-21,De progressionibus transcendentibus seu quarum termini generales algebraice dari nequeunt
+20,1,14,25-41,De summatione innumerabilium progressionum
+25,1,14,42-72,Methodus generalis summandi progressiones
+41,1,14,73-86,De summis serierum reciprocarum
+43,1,14,87-100,De progressionibus harmonicis observationes
+46,1,14,101-107,Methodus universalis serierum convergentium summas quam proxime inveniendi
+47,1,14,108-123,Inventio summae cuiusque seriei ex dato termino generali
+55,1,14,125-137,Methodus universalis series summandi ulterius promota
+61,1,14,138-155,De summis serierum reciprocarum ex potestatibus numerorum naturalium ortarum dissertatio altera, in qua eaedem summationes ex fonte maxime diverso derivantur
+63,1,14,177-186,Démonstration de la somme de cette suite 1 + 1/4 + 1/9 + 1/16 + ...
+71,1,14,187-216,De fractionibus continuis dissertatio
+72,1,14,217-244,Variae observationes circa series infinitas
+74,1,14,245-259,De variis modis circuli quadraturam numeris proxime exprimendi
+122,1,14,260-290,De productis ex infinitis factoribus ortis
+123,1,14,291-349,De fractionibus continuis observationes
+125,1,14,350-363,Consideratio progressionis cuiusdam ad circuli quadraturam inveniendam idoneae
+128,1,14,364-406,Methodus facilis computandi angulorum sinus ac tangentes tam naturales quam artificiales
+130,1,14,407-462,De seriebus quibusdam considerationes
