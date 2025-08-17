@@ -1,0 +1,11 @@
+19,1,14,1-24,100
+55,1,14,124-137,104
+43,1,14,87-100,103
+326,1,15,50-69,113
+281,1,15,31-49,112
+25,1,14,42-72,101
+476,1,7,246-261,116
+710,1,16B,41-55,118
+
+
+PS: THE 5h column is refer to the number which took place at the bibliography of kunth's concrete math

@@ -1,5 +1,5 @@
-30,1,6,De formis radicum aequationum cuiusque ordinis coniectatio
-153,1,6,Demonstratio gemina theorematis Neutoniani, quo traditur relatio inter coefficientes cuiusvis aequationis algebraicae et summas potestatum radicum eiusdem
+30,1,6,,1733,De formis radicum aequationum cuiusque ordinis coniectatio
+153,1,6,,1747,Demonstratio gemina theorematis Neutoniani, quo traditur relatio inter coefficientes cuiusvis aequationis algebraicae et summas potestatum radicum eiusdem
 157,1,6,De extractione radicum ex quantitatibus irrationalibus
 170,1,6,
 282,1,6,

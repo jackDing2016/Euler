@@ -1,0 +1,19 @@
+3,1,27,,1727,Methodus inveniendi traiectorias reciprocas algebraicas
+5,1,27,,1728,Problematis traiectoriarum reciprocarum solutio
+23,1,27,,1728,De curvis rectificabilibus algebraicis atque traiectoriis reciprocis algebraicis
+75,1,27,,1744,Solutio problematis in Novorum Actorum Eruditorum mense novembri A. 1743 propositi
+79,1,27,,1745,Problema geometricum propositum publice ab Anonymo Geometra
+83,1,27,Sur quelques proprietés des sections coniques, qui conviennent à une infinité d'autres lignes courbes
+85,1,27,Solutio problematis catoptrici in his actis A. 1745 Mense Septembri P. I pag. 523 propositi
+106,1,27,Solutio problematis catoptrici in Novis Actis Eruditorum Lipsiensibus pro mense Novembri A. 1745 propositi
+129,1,27,Investigatio curvarum quae evolutae sui similes producunt
+133,1,27,De superficie conorum scalenorum aliorumque corporum conicorum
+166,1,27
+169,1,27
+173,1,27
+214,1,27
+215,1,27
+220,1,27
+224,1,27
+298,1,27
+300,1,27
